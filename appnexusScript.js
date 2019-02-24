@@ -1,3 +1,5 @@
+document.write("Hello hghg!");
+
 var div_1_sizes = [
                 [300, 250],
                 [300, 600],
