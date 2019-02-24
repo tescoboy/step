@@ -1,4 +1,4 @@
-document.write("Hello hghg!");
+document.write("Hello hghggggg!");
 
 var div_1_sizes = [
                 [300, 250],
